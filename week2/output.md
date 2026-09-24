@@ -1,7 +1,7 @@
 # INFOMAN1 – Week 2 Lab: Conceptual ERD Case Study
 **Name:** Erika
 **Student ID:** 2510184
-**Section:** [Your Section]
+**Section:** BSCS III
 
 ## Task 1 — Candidate Entities
 
@@ -55,5 +55,3 @@
 ## Task 4 — Conceptual ERD
 
 ![Conceptual ERD](erd.png)
-
-*The ERD above illustrates the 4 main entities (Customer, Car, Mechanic, and Service Appointment), their respective key and descriptive attributes, and their 1:N cardinalities linking them together.*
